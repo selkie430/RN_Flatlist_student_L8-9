@@ -11,6 +11,7 @@ const defaultStyles = StyleSheet.create({
   titleContainer: {
     backgroundColor: colors.primary,
     padding: 10,
+    justifyContent: "center",
   },
   textContainer: {
     padding: 10,

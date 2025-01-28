@@ -11,7 +11,7 @@ import defaultStyles from "../styles/defaultStyles";
 export default function Index() {
   return (
     <View style={defaultStyles.container}>
-      <View style={defaultStyles.titleContainer}>
+      <View style={defaultStyles.titleContainer} >
         <Text style={defaultStyles.title}>Insert Title Here</Text>
       </View>
       <View style={[defaultStyles.textContainer, { flex: 1 }]}>
